@@ -20,18 +20,27 @@ else
     echo "ℹ️  apt-get یافت نشد — ابزار سیستمی نادیده گرفته شد."
 fi
 
-# ۳. بلندر ۳ بعدی (نصب دستی چون بار سنگین است و apt مسدود ممکن است باشد)
+# ۳. بلندر ۳ بعدی (نصب دستی خارج از ورک اسپیس — شبکه Sandbox به blender.org دسترسی ندارد)
 echo ""
-echo "🧊 نصب بلندر (.headless رندر ۳ بعدی و اناتومی):"
+echo "🧊 نصب بلندر (.headless رندر ۳ بعدی و اناتومی) — خارج از ورک اسپیس:"
 if command -v blender >/dev/null 2>&1; then
     echo "  ✅ blender هم‌اکنون در دسترس است: $(blender --version | head -1)"
 else
-    echo "  ❌ blender یافت نشد."
-    echo "     راهنمای نصب دستی:"
-    echo "     1. به https://www.blender.org/download/ بروید و Blender LTS (مثل 4.x) را دانلود کنید."
-    echo "     2. tar.xz را استخراج کنید و بلندر را به PATH اضافه کنید، یا:"
-    echo "        sudo apt-get install blender   (اگر اینترنت سیستمی فعال باشد)"
-    echo "     3. برای رندر بدون مانیتور: blender --background --python script.py"
+    echo "  ❌ blender یافت نشد (نصب دستی لازمه)."
+    echo ""
+    echo "   ✏️  مراحل نصب دستی بلندر (خارج از /home/user/Studio_1to1_Clone_Kit):"
+    echo "   ۱. به https://www.blender.org/download/ بروید و Blender LTS (مثلاً 4.3) را دانلود کنید."
+    echo "   ۲. فایل tar.xz را در دایرکتوری خارج از ورک اسپیس استخراج کنید:"
+    echo "        mkdir -p ~/apps && cd ~/apps"
+    echo "        tar -xjf blender-*.tar.xz"
+    echo "   ۳. بلندر را به PATH اضافه کنید:"
+    echo "        echo 'export PATH=\$PATH:~/apps/blender-*/' >> ~/.bashrc"
+    echo "        source ~/.bashrc"
+    echo "   ۴. برای رندر بدون مانیتور (headless):"
+    echo "        blender --background --python render_script.py"
+    echo ""
+    echo "   ⚠️  توجه: در این Sandbox دسترسی به blender.org و مخازن دبیان مسدود است،"
+    echo "      بنابراین نصب خودکار Blender ممکن نیست."
 fi
 
 # ۳. بررسیmotorها
