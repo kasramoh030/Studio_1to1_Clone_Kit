@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+env/
+venv/
+
+# Node / frontend
+node_modules/
+.next/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / cache
+*.log
+.cache/
+.npm/
+.pip-cache/
+
+# Temporary render output (keep under /var/tmp, not in repo)
+/tmp/

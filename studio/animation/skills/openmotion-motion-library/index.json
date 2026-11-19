@@ -1,0 +1,2590 @@
+{
+ "count": 287,
+ "source_repo": "https://github.com/nexu-io/openmotion",
+ "entries": [
+  {
+   "id": "motion-0053d84c-c358-4a52-9baa-8d3381e2ca1e",
+   "title": "Hermes 接入 Omarchy",
+   "duration_s": 25.125,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-0053d84c-c358-4a52-9baa-8d3381e2ca1e/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-018becab-0461-43d9-8e84-79833fd1f831",
+   "title": "新产品新视觉",
+   "duration_s": 22.466667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-018becab-0461-43d9-8e84-79833fd1f831/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-0220cd62-09db-43d7-87f7-494ec9ee0441",
+   "title": "Polymarket｜Perps 赛事数据面板",
+   "duration_s": 36.033333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-0220cd62-09db-43d7-87f7-494ec9ee0441/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-030d40f1-a081-451c-b557-a0bea9703616",
+   "title": "Gemini｜照片汇聚成数字 4",
+   "duration_s": 10.033333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-030d40f1-a081-451c-b557-a0bea9703616/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-03a1f5ca-617b-41a6-b4cb-6307ca32ff63",
+   "title": "Perplexity Computer now works in email",
+   "duration_s": 41.508133,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-03a1f5ca-617b-41a6-b4cb-6307ca32ff63/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-0ad92fd0-b2fb-4885-957c-b71152df15fd",
+   "title": "Dia 开放给 Arc 会员",
+   "duration_s": 24.016667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-0ad92fd0-b2fb-4885-957c-b71152df15fd/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-0b5f0027-4637-4ba8-8eff-ee14ffb095a4",
+   "title": "Cursor — now on iPad",
+   "duration_s": 27.766667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-0b5f0027-4637-4ba8-8eff-ee14ffb095a4/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-0c10d4de-a147-4a1b-8938-4c2d4a94a207",
+   "title": "K3｜开放权重预告",
+   "duration_s": 15.033333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-0c10d4de-a147-4a1b-8938-4c2d4a94a207/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-0c91857e-f630-4d75-85ab-1feec5566c46",
+   "title": "Higgsfield API｜多模型接口",
+   "duration_s": 48.416667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-0c91857e-f630-4d75-85ab-1feec5566c46/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-0dbe4710-8f5a-4cd2-9f05-530371fa899d",
+   "title": "石膏方块拆出 H",
+   "duration_s": 4.625,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-0dbe4710-8f5a-4cd2-9f05-530371fa899d/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-0e3488b3-db0b-4058-b70e-b58ac6213105",
+   "title": "Fable 5｜像素角色回归",
+   "duration_s": 13.166667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-0e3488b3-db0b-4058-b70e-b58ac6213105/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-0fd96b86-9f36-4bdd-9dcb-d249e43ab164",
+   "title": "Framer 接入 Cursor",
+   "duration_s": 15.958333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-0fd96b86-9f36-4bdd-9dcb-d249e43ab164/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-10adc0e0-3f63-45c9-9389-2657360c8aa0",
+   "title": "研究突破｜数学与理论计算机科学成果",
+   "duration_s": 31.948583,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-10adc0e0-3f63-45c9-9389-2657360c8aa0/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-12b62792-b531-40ce-858b-599564a602ac",
+   "title": "Geist Serif",
+   "duration_s": 43.333333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-12b62792-b531-40ce-858b-599564a602ac/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-12cf27b7-0c82-4ccc-8a9a-7eaed902ca19",
+   "title": "适配 iPhone Duo",
+   "duration_s": 17.016667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-12cf27b7-0c82-4ccc-8a9a-7eaed902ca19/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-1301d172-4b2d-44c8-95e6-872c82987796",
+   "title": "适配 iPhone Duo",
+   "duration_s": 8.633333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-1301d172-4b2d-44c8-95e6-872c82987796/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-133fd03a-4447-4e39-9b68-a74439ab34c0",
+   "title": "Directory 免费招聘数据",
+   "duration_s": 19.95,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-133fd03a-4447-4e39-9b68-a74439ab34c0/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-13466eb7-e76a-4f7c-8c4a-cdaa1bac24d8",
+   "title": "OKX AI — AI agents can already work, create, and earn.",
+   "duration_s": 30.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-13466eb7-e76a-4f7c-8c4a-cdaa1bac24d8/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-134b4303-daa6-4e6b-9027-3287dffb1ce1",
+   "title": "Grok Bot｜购物功能短片",
+   "duration_s": 11.333333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-134b4303-daa6-4e6b-9027-3287dffb1ce1/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-13ba3942-fd15-40ee-9638-03d1376514db",
+   "title": "Persimmon — a model that simulates people",
+   "duration_s": 14.875,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-13ba3942-fd15-40ee-9638-03d1376514db/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-14b59d59-5295-4014-9bf6-9103025baa0b",
+   "title": "Claude Duet｜主动式助手预览",
+   "duration_s": 67.541666,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-14b59d59-5295-4014-9bf6-9103025baa0b/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-16e994b2-cdba-45e1-b328-2af68af74985",
+   "title": "GPT-Live-1.1 语音更新",
+   "duration_s": 40.733333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-16e994b2-cdba-45e1-b328-2af68af74985/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-1994f1f9-b8ea-4083-8846-1e96e3f05fff",
+   "title": "能力更新｜450+ integrations",
+   "duration_s": 26.259567,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-1994f1f9-b8ea-4083-8846-1e96e3f05fff/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-1aaf35f0-86c4-4c56-be32-7951f4bfc797",
+   "title": "把重复工作设成自动任务",
+   "duration_s": 27.033333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-1aaf35f0-86c4-4c56-be32-7951f4bfc797/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-1da97ff4-695c-404a-8c47-c0a0ab2921aa",
+   "title": "Search On 2020｜制作方动效集锦 · 34.6 秒",
+   "duration_s": 34.5345,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-1da97ff4-695c-404a-8c47-c0a0ab2921aa/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-1e48dea5-903d-48f6-b10e-99a70f1c183d",
+   "title": "Magic Share",
+   "duration_s": 36.6,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-1e48dea5-903d-48f6-b10e-99a70f1c183d/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-1f10a9ab-e989-4aec-80bd-4afe15280424",
+   "title": "Grok × Coinbase",
+   "duration_s": 20.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-1f10a9ab-e989-4aec-80bd-4afe15280424/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-1f1a40cc-f473-46f7-badb-953b2fb140c2",
+   "title": "Glass.",
+   "duration_s": 10.04,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-1f1a40cc-f473-46f7-badb-953b2fb140c2/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-2208d0c1-6565-4b69-89cb-581e7206ac12",
+   "title": "紫框中的五个组件",
+   "duration_s": 3.9,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-2208d0c1-6565-4b69-89cb-581e7206ac12/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-228c2d11-8827-416f-9f9f-aacf002cb7e0",
+   "title": "https://t.co/OVuIhnRm6v → https://t.co/kyKWp8myFL https://t.co/DHPzoRv6Oh",
+   "duration_s": 37.041667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-228c2d11-8827-416f-9f9f-aacf002cb7e0/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-23671bf9-0ae8-49d4-be77-62949eaef616",
+   "title": "SUNO 版本开关",
+   "duration_s": 5.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-23671bf9-0ae8-49d4-be77-62949eaef616/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-24e46588-504b-4efd-ac28-6ffc407fc33a",
+   "title": "Deezer｜声波心形标志",
+   "duration_s": 5.6,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-24e46588-504b-4efd-ac28-6ffc407fc33a/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-250d244e-c34b-42b9-9da9-22d9983c48f5",
+   "title": "新视觉｜字标揭晓",
+   "duration_s": 4.5,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-250d244e-c34b-42b9-9da9-22d9983c48f5/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-27b3a44f-5c17-4bea-83f0-5e92e0ad20d9",
+   "title": "Loops 新能力",
+   "duration_s": 28.466667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-27b3a44f-5c17-4bea-83f0-5e92e0ad20d9/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-2b0dd9d6-eea1-46a7-9c02-bcbef4782e18",
+   "title": "Computer 能生成交互图表",
+   "duration_s": 61.6,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-2b0dd9d6-eea1-46a7-9c02-bcbef4782e18/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-2c28ef03-af00-440b-83d8-543b7c1e6fbb",
+   "title": "Agent SDK 发布",
+   "duration_s": 28.4,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-2c28ef03-af00-440b-83d8-543b7c1e6fbb/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-2ca7c87b-23e8-4517-b197-cb5178e8fa76",
+   "title": "Supabase Explorer and Notebooks",
+   "duration_s": 58.25,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-2ca7c87b-23e8-4517-b197-cb5178e8fa76/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-2cd7fd99-8dff-4c2c-8577-719c51ae9e5c",
+   "title": "Apple｜Spotlight 界面动效",
+   "duration_s": 5.5,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-2cd7fd99-8dff-4c2c-8577-719c51ae9e5c/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-2d4e10c0-c178-4f7c-a365-e51b5e30b455",
+   "title": "研究界面开孔",
+   "duration_s": 6.375,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-2d4e10c0-c178-4f7c-a365-e51b5e30b455/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-2fd3fc6b-eec2-4bfb-9a49-6eb04acc5fae",
+   "title": "TIDAL｜文字主视觉 60 秒版",
+   "duration_s": 60.018156,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-2fd3fc6b-eec2-4bfb-9a49-6eb04acc5fae/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-3016ace9-aa52-4cc7-acc3-042e2a81088c",
+   "title": "Grok — one prompt to a published app",
+   "duration_s": 55.2,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-3016ace9-aa52-4cc7-acc3-042e2a81088c/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-31118b3d-7967-4181-b00d-58c291793142",
+   "title": "AI Gateway Virtual Models",
+   "duration_s": 41.06674,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-31118b3d-7967-4181-b00d-58c291793142/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-315c1cab-71b0-4bec-a20c-b57f2418e88c",
+   "title": "网站、deck、发布图讲同一个故事",
+   "duration_s": 15.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-315c1cab-71b0-4bec-a20c-b57f2418e88c/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-3237a979-1718-4b54-9581-4cd639377cd8",
+   "title": "模型发布｜GPT-6 Sol / Luna",
+   "duration_s": 16.2,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-3237a979-1718-4b54-9581-4cd639377cd8/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-342251b9-26fe-45a6-a4fa-697f234c9755",
+   "title": "Devin Desktop 改版",
+   "duration_s": 32.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-342251b9-26fe-45a6-a4fa-697f234c9755/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-343ccb64-5c8e-4101-b65e-463aec3a7c35",
+   "title": "Universe 2023｜大会图形揭晓",
+   "duration_s": 6.333333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-343ccb64-5c8e-4101-b65e-463aec3a7c35/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-35e8438f-f8e5-4989-a508-fbef1676e739",
+   "title": "Suki｜线条与文字品牌短片",
+   "duration_s": 23.083333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-35e8438f-f8e5-4989-a508-fbef1676e739/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-36220499-8ac9-4a39-afb9-35bfba462abb",
+   "title": "数字动效 · 6.1 秒",
+   "duration_s": 6.116667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-36220499-8ac9-4a39-afb9-35bfba462abb/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-36c45042-6bae-4e0f-8365-7b43212eeeef",
+   "title": "Sonnet 5.5 · 微距剪辑",
+   "duration_s": 13.28,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-36c45042-6bae-4e0f-8365-7b43212eeeef/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-3845bb3e-dafb-4af2-9507-d32400b5aa54",
+   "title": "Kimi Work — remote control from your phone",
+   "duration_s": 37.933333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-3845bb3e-dafb-4af2-9507-d32400b5aa54/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-38b9c70f-cf58-4555-a50e-30c17479ba1e",
+   "title": "Qwen3.8-Max：材质标志与模型公告",
+   "duration_s": 4.033333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-38b9c70f-cf58-4555-a50e-30c17479ba1e/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-3957ff01-8fd8-4a30-b8ac-b88705c90dbc",
+   "title": "Linear Diffs — code review inside Linear",
+   "duration_s": 51.883333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-3957ff01-8fd8-4a30-b8ac-b88705c90dbc/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-3ac3bd45-8732-4ce3-8331-ca6e96e2aed2",
+   "title": "Parallel Index — get paid when AI uses your content",
+   "duration_s": 95.933333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-3ac3bd45-8732-4ce3-8331-ca6e96e2aed2/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-3b1813cf-f2fe-4d8a-add4-8f3a49d06982",
+   "title": "AI Labs｜界面元素",
+   "duration_s": 46.933333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-3b1813cf-f2fe-4d8a-add4-8f3a49d06982/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-3b8aa76b-7235-4cc1-b2f9-3e9bded13c27",
+   "title": "Perplexity Computer — one agent for end-to-end projects",
+   "duration_s": 94.366667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-3b8aa76b-7235-4cc1-b2f9-3e9bded13c27/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-3b955ba8-2f6f-47ef-910c-79115843bd6b",
+   "title": "Orbit｜大会预告",
+   "duration_s": 28.583333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-3b955ba8-2f6f-47ef-910c-79115843bd6b/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-3ce7f525-08cd-4ccb-b3f6-92dc168c28ce",
+   "title": "产品演变回顾",
+   "duration_s": 13.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-3ce7f525-08cd-4ccb-b3f6-92dc168c28ce/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-4136af75-145b-41f1-97d3-06ded1f58f2e",
+   "title": "Google Search (AI upgrade) — At #GoogleIO last month,…",
+   "duration_s": 22.2,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-4136af75-145b-41f1-97d3-06ded1f58f2e/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-441b7b32-6bcf-43d4-8259-1b292a84e0ec",
+   "title": "Creative Cloud｜玫红切片变体",
+   "duration_s": 1.583333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-441b7b32-6bcf-43d4-8259-1b292a84e0ec/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-45cca1f4-13dd-44f1-a782-552f2d4469fd",
+   "title": "Bluevine｜品牌几何动效",
+   "duration_s": 17.875,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-45cca1f4-13dd-44f1-a782-552f2d4469fd/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-46f34492-8ba1-4ba5-ac6e-4b4a13c80373",
+   "title": "Aesthetics",
+   "duration_s": 54.2542,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-46f34492-8ba1-4ba5-ac6e-4b4a13c80373/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-478a2c75-2a13-435a-9b44-d730aca6c67c",
+   "title": "Factory｜2.0 发布",
+   "duration_s": 29.83346,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-478a2c75-2a13-435a-9b44-d730aca6c67c/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-48a070b4-f3ee-49bb-8f18-fd071b73dc91",
+   "title": "Manus 做的网站能装成桌面 app",
+   "duration_s": 19.283333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-48a070b4-f3ee-49bb-8f18-fd071b73dc91/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-491b2d70-61d6-41e5-84ba-ee611ea9c409",
+   "title": "North 2 — coming October 2026",
+   "duration_s": 16.2,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-491b2d70-61d6-41e5-84ba-ee611ea9c409/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-4946d023-cd88-41c1-9178-5742e92d2427",
+   "title": "Cursor · 从手机控制电脑代理",
+   "duration_s": 38.8,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-4946d023-cd88-41c1-9178-5742e92d2427/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-4950dcca-547a-4ae7-8697-3d86f73eab62",
+   "title": "Creative Cloud｜橙色手绘变体",
+   "duration_s": 1.583333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-4950dcca-547a-4ae7-8697-3d86f73eab62/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-4a137574-5ea8-4e6f-82bd-11ef77c03c55",
+   "title": "CodeRabbit [blocked] Triage",
+   "duration_s": 69.102367,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-4a137574-5ea8-4e6f-82bd-11ef77c03c55/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-4aaa2afc-a75f-4ce4-a3c5-eb620ed706e5",
+   "title": "Miro｜产品发布合集",
+   "duration_s": 144.133333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-4aaa2afc-a75f-4ce4-a3c5-eb620ed706e5/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-4ac56dc1-dd84-452a-9d74-7388e49b7dbd",
+   "title": "Claude Code Security — vulnerability scans and patches",
+   "duration_s": 50.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-4ac56dc1-dd84-452a-9d74-7388e49b7dbd/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-4bd122ac-c538-4fc6-a9b4-bfc1357a3f10",
+   "title": "Exa — Give Codex and ChatGPT access to 100B+ websites",
+   "duration_s": 23.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-4bd122ac-c538-4fc6-a9b4-bfc1357a3f10/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-4c3e677d-279f-4a5b-b7b4-f94e1b79a722",
+   "title": "Scheduled Tasks 2.0 (Manus) — Scheduled Tasks 2.0 — a…",
+   "duration_s": 41.866667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-4c3e677d-279f-4a5b-b7b4-f94e1b79a722/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-4cab572a-4d2a-4058-8a06-84cf3fda0df0",
+   "title": "Harvey II",
+   "duration_s": 60.125,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-4cab572a-4d2a-4058-8a06-84cf3fda0df0/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-4d2c0503-a324-49e7-924d-0eae443f54d7",
+   "title": "Figma node — connect frames into Weave workflows",
+   "duration_s": 31.333333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-4d2c0503-a324-49e7-924d-0eae443f54d7/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-4f330399-939d-4dba-8525-fff2f84602cd",
+   "title": "同项目 5 秒短预览 · 5.0 秒",
+   "duration_s": 5.033333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-4f330399-939d-4dba-8525-fff2f84602cd/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-4f6f4723-0010-4efd-b13d-d2dabf899e88",
+   "title": "Manus Slides｜演示文稿发布",
+   "duration_s": 39.633333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-4f6f4723-0010-4efd-b13d-d2dabf899e88/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-4fdcf514-f8fe-4bcc-a037-60482375769c",
+   "title": "钱包补充资金的插画循环",
+   "duration_s": 4.8,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-4fdcf514-f8fe-4bcc-a037-60482375769c/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-4fdfd64a-8fb2-43ee-96f6-7755f8b7b11e",
+   "title": "用 MCP 迁移到 Framer",
+   "duration_s": 6.1,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-4fdfd64a-8fb2-43ee-96f6-7755f8b7b11e/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-5071dcd7-d5f0-456a-ac4c-37b2b442eb1c",
+   "title": "Think｜大会字标",
+   "duration_s": 2.166667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-5071dcd7-d5f0-456a-ac4c-37b2b442eb1c/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-55c19bf3-dbb1-4890-98c7-5ea7fb5ee432",
+   "title": "Claude — decks, docs, and designs in chat",
+   "duration_s": 94.625,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-55c19bf3-dbb1-4890-98c7-5ea7fb5ee432/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-55c5fe84-fe5f-4be0-aadf-42fbb1c9b9db",
+   "title": "Cash App｜竖版产品应用",
+   "duration_s": 11.942667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-55c5fe84-fe5f-4be0-aadf-42fbb1c9b9db/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-56a6a8d9-48b7-42b7-8293-5533a0ee633f",
+   "title": "Dub launches Partner Referrals",
+   "duration_s": 24.06684,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-56a6a8d9-48b7-42b7-8293-5533a0ee633f/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-56ab9744-78aa-4841-bdb1-697c2df915e0",
+   "title": "Notion as code — workspaces in TypeScript",
+   "duration_s": 51.06684,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-56ab9744-78aa-4841-bdb1-697c2df915e0/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-5805e419-651f-45b7-90be-302c93f79b21",
+   "title": "Framer 3.0｜品牌与产品发布",
+   "duration_s": 75.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-5805e419-651f-45b7-90be-302c93f79b21/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-58419346-fa3c-4f7f-8179-9456c2962ef9",
+   "title": "Resend Inboxes",
+   "duration_s": 11.566667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-58419346-fa3c-4f7f-8179-9456c2962ef9/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-58611416-78a3-444d-9c15-181c7c36adf8",
+   "title": "Claude｜个人财务",
+   "duration_s": 91.166667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-58611416-78a3-444d-9c15-181c7c36adf8/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-594cffdc-980f-4c79-a85b-3d01b60e871e",
+   "title": "Rive CLI — build Rive files with your agent",
+   "duration_s": 31.266667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-594cffdc-980f-4c79-a85b-3d01b60e871e/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-5a047c70-9589-404f-a761-03273bc226ad",
+   "title": "本周更新：Notes 支持图片",
+   "duration_s": 14.016667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-5a047c70-9589-404f-a761-03273bc226ad/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-5aff0bef-38fd-465c-b8d0-3b0c964d8149",
+   "title": "信息拼贴变为墨字",
+   "duration_s": 4.333333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-5aff0bef-38fd-465c-b8d0-3b0c964d8149/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-5bca88f2-2a31-43ec-bf86-e43d30f93217",
+   "title": "Deep Research — now native inside Computer",
+   "duration_s": 62.7,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-5bca88f2-2a31-43ec-bf86-e43d30f93217/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-5d05235e-aa1b-4c06-ad97-3ea6c41962a2",
+   "title": "Claude — computer use in Cowork and Claude Code",
+   "duration_s": 73.333333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-5d05235e-aa1b-4c06-ad97-3ea6c41962a2/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-5eb6929e-d9f3-4a49-a69e-0363e45884dc",
+   "title": "Salsa｜音乐主题 Doodle",
+   "duration_s": 48.458333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-5eb6929e-d9f3-4a49-a69e-0363e45884dc/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-5ec91ccc-4243-445b-8bf3-d7d85e65a309",
+   "title": "新视觉｜折叠标语",
+   "duration_s": 11.25,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-5ec91ccc-4243-445b-8bf3-d7d85e65a309/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-5f387971-3508-4a22-9c5a-63c05cbdb37f",
+   "title": "Linear — coding sessions on mobile",
+   "duration_s": 20.833333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-5f387971-3508-4a22-9c5a-63c05cbdb37f/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-5f7ad673-4895-4464-86d2-d08d875281b6",
+   "title": "Perplexity — Portable Computer on NVIDIA DGX Spark",
+   "duration_s": 97.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-5f7ad673-4895-4464-86d2-d08d875281b6/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-60243f44-70ea-4715-b987-e10ee543887c",
+   "title": "Manus Agents — your personal Manus, now inside your…",
+   "duration_s": 37.066667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-60243f44-70ea-4715-b987-e10ee543887c/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-60433399-faf4-4bbf-b860-19584b012213",
+   "title": "Computer — effort controls in the model selector",
+   "duration_s": 11.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-60433399-faf4-4bbf-b860-19584b012213/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-60b66835-4999-48ad-b942-4872ea012b85",
+   "title": "Android Drop — Find Hub, Motion Assist, Gemini",
+   "duration_s": 8.066667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-60b66835-4999-48ad-b942-4872ea012b85/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-60f0411c-316e-4b1c-8c15-c1c56527e53a",
+   "title": "Kimi Web Bridge - Kimi's browser extension.",
+   "duration_s": 63.333333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-60f0411c-316e-4b1c-8c15-c1c56527e53a/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-6100365a-945f-43b4-b476-7e8d30e2db32",
+   "title": "Reception · 多行业电话接待",
+   "duration_s": 32.866667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-6100365a-945f-43b4-b476-7e8d30e2db32/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-6169c2d0-a372-445e-96a3-e5eb43b00656",
+   "title": "Manus Skills｜工作流技能",
+   "duration_s": 32.666667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-6169c2d0-a372-445e-96a3-e5eb43b00656/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-63434ede-a918-4ec1-a99e-ba12e87d4063",
+   "title": "Cursor SDK — We’re introducing the Cursor SDK so you…",
+   "duration_s": 35.033451,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-63434ede-a918-4ec1-a99e-ba12e87d4063/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-652fa397-9dcc-441d-80cb-3a806d132e96",
+   "title": "四手机并列：应用生成能力演示",
+   "duration_s": 17.875,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-652fa397-9dcc-441d-80cb-3a806d132e96/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-65aa721c-db2c-49e1-a84f-1917cd0d1c1e",
+   "title": "GLM-5V-Turbo — vision coding model",
+   "duration_s": 77.52,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-65aa721c-db2c-49e1-a84f-1917cd0d1c1e/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-664184d9-593e-4984-b473-701248b69cfe",
+   "title": "Bolt Skills｜团队能力展示",
+   "duration_s": 42.966667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-664184d9-593e-4984-b473-701248b69cfe/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-68d80741-c336-41ca-848e-7e6103e021e6",
+   "title": "图标动效 · 10.3 秒",
+   "duration_s": 10.266667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-68d80741-c336-41ca-848e-7e6103e021e6/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-6a60a781-d223-4c03-96ba-88bcaafd62d3",
+   "title": "There are many futures｜品牌片",
+   "duration_s": 76.916667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-6a60a781-d223-4c03-96ba-88bcaafd62d3/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-6a90052f-c0f7-4a05-9a21-0a84a341af46",
+   "title": "Emergent｜移动应用发布",
+   "duration_s": 27.166667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-6a90052f-c0f7-4a05-9a21-0a84a341af46/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-6b037a5c-ee23-47ce-b312-ba285d5e7ef4",
+   "title": "Krea Nodes 多人协作",
+   "duration_s": 23.866667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-6b037a5c-ee23-47ce-b312-ba285d5e7ef4/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-6b58e785-aace-4d84-9229-7d68d6ed247b",
+   "title": "季度业绩｜2026 Q2 回顾",
+   "duration_s": 46.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-6b58e785-aace-4d84-9229-7d68d6ed247b/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-6deb74b6-8f52-4b81-b971-3b68e1fffa34",
+   "title": "Grok Bot｜Android 发布",
+   "duration_s": 9.966667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-6deb74b6-8f52-4b81-b971-3b68e1fffa34/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-7023f16a-1973-40da-9348-4e157ea5239e",
+   "title": "Polymarket · 五分钟方向选择",
+   "duration_s": 20.645625,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-7023f16a-1973-40da-9348-4e157ea5239e/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-713872a8-8a62-4e4f-abc1-867d74c642e3",
+   "title": "Supabase — connector in Gemini Enterprise",
+   "duration_s": 16.3,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-713872a8-8a62-4e4f-abc1-867d74c642e3/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-71722e89-6acc-44eb-95fd-2e7cb5f2df08",
+   "title": "QuiverAI Arrow 2｜矢量生成",
+   "duration_s": 43.84,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-71722e89-6acc-44eb-95fd-2e7cb5f2df08/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-7191c712-7794-4f62-bd5d-203293cb8f0c",
+   "title": "Perplexity AI / Snowflake Integration — Computer now…",
+   "duration_s": 71.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-7191c712-7794-4f62-bd5d-203293cb8f0c/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-71db3b43-bf59-43a1-b8ad-85354a44e78b",
+   "title": "Comet｜星云窗口",
+   "duration_s": 12.1,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-71db3b43-bf59-43a1-b8ad-85354a44e78b/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-730d0690-8a79-483e-aa72-28452f10dcca",
+   "title": "Higgsfield · 十亿美元里程碑",
+   "duration_s": 26.041667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-730d0690-8a79-483e-aa72-28452f10dcca/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-734ef479-a7b7-458a-b488-ad0f6a0498b4",
+   "title": "Suno Studio 预告",
+   "duration_s": 18.133333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-734ef479-a7b7-458a-b488-ad0f6a0498b4/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-7427c442-35ee-408f-9c33-4280ad2d3465",
+   "title": "ChatGPT Images 2.6",
+   "duration_s": 35.066762,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-7427c442-35ee-408f-9c33-4280ad2d3465/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-74408712-50e0-43ac-a167-1a11297cdae0",
+   "title": "Underlord｜视频模板",
+   "duration_s": 35.3,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-74408712-50e0-43ac-a167-1a11297cdae0/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-74842385-a951-4617-aa23-67d4cbf57f22",
+   "title": "Perplexity｜Windows 本地计算",
+   "duration_s": 32.533333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-74842385-a951-4617-aa23-67d4cbf57f22/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-74f06cd2-601f-434d-a616-62da95828cb5",
+   "title": "Claude 手机工具连接",
+   "duration_s": 52.25,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-74f06cd2-601f-434d-a616-62da95828cb5/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-7524e275-4fe8-44a9-b210-7b353b8e80ab",
+   "title": "AI Grand Prix 无人机赛",
+   "duration_s": 10.5105,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-7524e275-4fe8-44a9-b210-7b353b8e80ab/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-76a44f60-a882-4226-9976-4dbb9f105f2c",
+   "title": "Cursor Figma Component Creation — Cursor can now…",
+   "duration_s": 25.416667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-76a44f60-a882-4226-9976-4dbb9f105f2c/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-788325cf-3104-4912-904d-ada6ea4615b9",
+   "title": "Mercor Launch Video",
+   "duration_s": 31.95,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-788325cf-3104-4912-904d-ada6ea4615b9/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-797418c0-9781-4a86-a8fd-b3cbcb86037e",
+   "title": "Polymarket · 中期选举总览",
+   "duration_s": 36.916667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-797418c0-9781-4a86-a8fd-b3cbcb86037e/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-7b279560-81df-4c31-988d-473d35536c28",
+   "title": "Wonderful｜融资公告动效",
+   "duration_s": 17.84,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-7b279560-81df-4c31-988d-473d35536c28/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-7b4b6492-416e-4c84-8be0-5dcade56adb6",
+   "title": "Le Chat｜品牌发布",
+   "duration_s": 76.233333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-7b4b6492-416e-4c84-8be0-5dcade56adb6/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-7bec0070-f5ea-4cf5-a22c-3a02c16535fa",
+   "title": "The web wasn’t built for AI agents",
+   "duration_s": 66.041667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-7bec0070-f5ea-4cf5-a22c-3a02c16535fa/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-7d2376c5-2148-44ae-9720-330bc5f64ca9",
+   "title": "Bolt Template Marketplace｜模板市场",
+   "duration_s": 31.016667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-7d2376c5-2148-44ae-9720-330bc5f64ca9/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-7f4c8c30-d91d-4e75-b930-057ff030376b",
+   "title": "Runway Agent 新能力",
+   "duration_s": 64.297567,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-7f4c8c30-d91d-4e75-b930-057ff030376b/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-80640920-4ab0-4ac0-b66e-3b64726e7960",
+   "title": "Figma｜画布中的 Agent",
+   "duration_s": 61.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-80640920-4ab0-4ac0-b66e-3b64726e7960/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-80dceb1d-5219-4e1f-9394-6baacf5d0166",
+   "title": "Link wallet for agents",
+   "duration_s": 28.033333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-80dceb1d-5219-4e1f-9394-6baacf5d0166/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-8197b521-9883-45de-be9d-6b492770b3eb",
+   "title": "Cursor · 递归任务编排",
+   "duration_s": 20.033333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-8197b521-9883-45de-be9d-6b492770b3eb/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-81a64f50-815d-4e91-846d-9f018e2326be",
+   "title": "Ramp · 官网产品展示",
+   "duration_s": 13.033333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-81a64f50-815d-4e91-846d-9f018e2326be/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-81c409d2-46e9-4c90-bcde-a0de2106f81e",
+   "title": "Linear — custom environments in coding sessions",
+   "duration_s": 17.166667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-81c409d2-46e9-4c90-bcde-a0de2106f81e/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-82aab926-a9a1-4f08-835f-4e9089877ef9",
+   "title": "Magistral 发布",
+   "duration_s": 36.3,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-82aab926-a9a1-4f08-835f-4e9089877ef9/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-82eeddc5-21ae-40f6-8a68-a7fd352ce92b",
+   "title": "Whop — Introducing Whop Treasury: Earn 6% Yield on…",
+   "duration_s": 32.16,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-82eeddc5-21ae-40f6-8a68-a7fd352ce92b/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-85c4648e-b5d8-4e57-93d2-b8feb1c5d48d",
+   "title": "Perplexity Computer — hybrid cloud and local compute",
+   "duration_s": 68.8,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-85c4648e-b5d8-4e57-93d2-b8feb1c5d48d/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-85d291f5-d569-4b9e-8143-0df9e7783fd0",
+   "title": "导入项目和网站",
+   "duration_s": 11.666667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-85d291f5-d569-4b9e-8143-0df9e7783fd0/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-8605acf7-c0e9-465b-858a-114c49764c3d",
+   "title": "Bolt Forge｜产品发布",
+   "duration_s": 36.52,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-8605acf7-c0e9-465b-858a-114c49764c3d/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-87a0c9d5-89f0-49f8-8faf-343a44f2beb7",
+   "title": "ElevenLabs — $500M raise at an $11B valuation",
+   "duration_s": 57.34,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-87a0c9d5-89f0-49f8-8faf-343a44f2beb7/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-887d2d40-3cf1-4a2c-8e38-c5162a0d1598",
+   "title": "EliseAI｜官网产品界面",
+   "duration_s": 9.983333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-887d2d40-3cf1-4a2c-8e38-c5162a0d1598/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-89e97c54-0d34-4d6d-9775-133b7a0ae0fc",
+   "title": "Cursor Builds — cloud agents start 3x faster",
+   "duration_s": 19.9,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-89e97c54-0d34-4d6d-9775-133b7a0ae0fc/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-89f2191f-bd58-48e2-a1f5-41c0cc759b59",
+   "title": "Claude Code｜Agent View",
+   "duration_s": 38.791667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-89f2191f-bd58-48e2-a1f5-41c0cc759b59/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-89fae9c1-f9fa-4d67-a213-940bcd029782",
+   "title": "Grok Bot｜分享模板",
+   "duration_s": 16.566667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-89fae9c1-f9fa-4d67-a213-940bcd029782/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-90713ad1-ac50-4d2d-ba9e-ddf718959fe2",
+   "title": "Higgsfield — Cursor for motion designers",
+   "duration_s": 20.1,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-90713ad1-ac50-4d2d-ba9e-ddf718959fe2/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-927a222e-3fcd-4565-aa63-40e97447688a",
+   "title": "Cursor Multitask / Subagents — /multitask in the new…",
+   "duration_s": 24.9,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-927a222e-3fcd-4565-aa63-40e97447688a/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-927b643f-10c5-4c96-b2fe-f06bed85c9b8",
+   "title": "Cursor Origin｜代码托管",
+   "duration_s": 30.9,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-927b643f-10c5-4c96-b2fe-f06bed85c9b8/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-92cf4fa2-b65b-4ca2-a6ac-40d4bed47bdd",
+   "title": "活动上线｜Config Makeathon",
+   "duration_s": 24.933333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-92cf4fa2-b65b-4ca2-a6ac-40d4bed47bdd/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-9478f886-91af-4107-91f1-fb00c57d78e3",
+   "title": "Zaro 产品发布",
+   "duration_s": 68.533,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-9478f886-91af-4107-91f1-fb00c57d78e3/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-94ac058e-ba55-4cc7-b8fd-64cb6dabc909",
+   "title": "Grok Bot · 对话内填表与登录",
+   "duration_s": 19.166667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-94ac058e-ba55-4cc7-b8fd-64cb6dabc909/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-94fdb751-f3cf-4c08-906b-2bcf5dd73ecd",
+   "title": "Gmail × Gemini",
+   "duration_s": 71.233333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-94fdb751-f3cf-4c08-906b-2bcf5dd73ecd/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-9515f460-834f-4835-a512-f53890e27cb7",
+   "title": "Hyperliquid 5-minute up/down HYPE polymarkets —…",
+   "duration_s": 22.583333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-9515f460-834f-4835-a512-f53890e27cb7/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-96f14740-8874-4048-9ba8-5abb19c7c072",
+   "title": "Grok Bot · Starship 邀请活动",
+   "duration_s": 26.7,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-96f14740-8874-4048-9ba8-5abb19c7c072/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-98e8aea3-0e9a-45f2-9ff8-d8a323204378",
+   "title": "产品预热｜Windows 相关预告",
+   "duration_s": 9.217542,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-98e8aea3-0e9a-45f2-9ff8-d8a323204378/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-9b6b2260-e3cc-4db4-9e0d-cc9a35057ac5",
+   "title": "Wise｜字体与货币符号动效",
+   "duration_s": 17.366667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-9b6b2260-e3cc-4db4-9e0d-cc9a35057ac5/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-9b6da843-20d6-40cc-994e-8e1d38561b5c",
+   "title": "排字动效 · 3.5 秒",
+   "duration_s": 3.516667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-9b6da843-20d6-40cc-994e-8e1d38561b5c/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-9c62b31c-d5e8-4027-8057-e8f1c3949f6c",
+   "title": "Twilio｜客户互动平台 MG 介绍",
+   "duration_s": 100.966667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-9c62b31c-d5e8-4027-8057-e8f1c3949f6c/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-9cb4728d-4bb7-4b85-bcf9-9abd33006649",
+   "title": "用 AI 创建演示文稿",
+   "duration_s": 21.033333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-9cb4728d-4bb7-4b85-bcf9-9abd33006649/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-9e426bb2-2a58-41bb-9619-5f700d5228ed",
+   "title": "Universe 2023｜几何循环",
+   "duration_s": 14.9,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-9e426bb2-2a58-41bb-9619-5f700d5228ed/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-9e5e7ea7-05f9-4ad0-9007-692af38ccc55",
+   "title": "Faculty｜渐变文字品牌主张",
+   "duration_s": 15.04,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-9e5e7ea7-05f9-4ad0-9007-692af38ccc55/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-9f3b5395-c61e-45aa-97db-f164e762e61a",
+   "title": "Claude Design — prototypes and slides by chat",
+   "duration_s": 81.5,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-9f3b5395-c61e-45aa-97db-f164e762e61a/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-9fc27ae8-90f1-4745-af4f-00f390c206a2",
+   "title": "Ad Studio：贴链接出整套广告",
+   "duration_s": 34.7,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-9fc27ae8-90f1-4745-af4f-00f390c206a2/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-a01301cc-7413-48d0-90ff-bbb173acc167",
+   "title": "ChatGPT — 73 plugins for legal work",
+   "duration_s": 60.06,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-a01301cc-7413-48d0-90ff-bbb173acc167/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-a09000a0-dc1b-47a8-a807-1ede9667e144",
+   "title": "Google Drive 接入 Figma agent",
+   "duration_s": 44.377667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-a09000a0-dc1b-47a8-a807-1ede9667e144/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-a1c471ae-a235-40ba-b24e-9a502a00cb33",
+   "title": "GPT-6 Cyber",
+   "duration_s": 7.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-a1c471ae-a235-40ba-b24e-9a502a00cb33/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-a28f0e5d-aa8b-45a7-87f9-9afcac65a09b",
+   "title": "免费语音输入",
+   "duration_s": 21.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-a28f0e5d-aa8b-45a7-87f9-9afcac65a09b/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-a325ecf0-23a5-4f4b-a888-c5a8f4517126",
+   "title": "Notion AI 大升级（Agents 等）",
+   "duration_s": 51.416667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-a325ecf0-23a5-4f4b-a888-c5a8f4517126/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-a36b6646-29bc-4602-8e0b-2139b21f3bf5",
+   "title": "Own the means of production. Revolt with us.",
+   "duration_s": 2.6,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-a36b6646-29bc-4602-8e0b-2139b21f3bf5/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-a3fec53a-a603-4486-9ec0-f7a6f926ab8d",
+   "title": "K3.1｜无文案预热",
+   "duration_s": 24.033333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-a3fec53a-a603-4486-9ec0-f7a6f926ab8d/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-a4339fcf-8c17-4b3b-9d19-4735444bc160",
+   "title": "Cybersecurity Data",
+   "duration_s": 21.683333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-a4339fcf-8c17-4b3b-9d19-4735444bc160/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-a55bd50a-ab7b-4f47-9cff-8b6faddfadf7",
+   "title": "Build Live Apps",
+   "duration_s": 24.266667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-a55bd50a-ab7b-4f47-9cff-8b6faddfadf7/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-a653c6bb-3e85-420c-8b4a-3353b8fd8fbf",
+   "title": "Pond｜系统发布",
+   "duration_s": 19.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-a653c6bb-3e85-420c-8b4a-3353b8fd8fbf/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-a6f31f7b-f6af-44be-8bf4-881e70057f63",
+   "title": "Higgsfield API｜返现活动",
+   "duration_s": 26.066667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-a6f31f7b-f6af-44be-8bf4-881e70057f63/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-a8969c13-c7db-4e76-aa48-cfcb0674cf99",
+   "title": "Airtable｜用 AI 创建应用",
+   "duration_s": 58.5,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-a8969c13-c7db-4e76-aa48-cfcb0674cf99/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-aa9742de-5366-4283-953d-e692a2fbce12",
+   "title": "Computer 上线 Automations",
+   "duration_s": 92.125367,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-aa9742de-5366-4283-953d-e692a2fbce12/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-ab741f6c-6d55-4fac-9862-0a0914806c2b",
+   "title": "Framer Agent Templates",
+   "duration_s": 6.5,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-ab741f6c-6d55-4fac-9862-0a0914806c2b/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-addf1d49-2044-4959-b4e1-8e627ea00226",
+   "title": "Computer for Counsel — Perplexity for lawyers",
+   "duration_s": 64.1,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-addf1d49-2044-4959-b4e1-8e627ea00226/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-ae1ab93e-e10e-4cad-a2c4-23a397345ad5",
+   "title": "Notion Skills — export to local coding agents",
+   "duration_s": 32.383333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-ae1ab93e-e10e-4cad-a2c4-23a397345ad5/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-ae26dbdd-1cb7-434e-9b50-b7c9116ab46c",
+   "title": "AI Mode Home Services",
+   "duration_s": 25.866667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-ae26dbdd-1cb7-434e-9b50-b7c9116ab46c/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-af77653d-96a4-4987-8cca-222a0bdd80d8",
+   "title": "We’re rolling out EURR, our first euro-backed stablecoin, in the Revolut app.",
+   "duration_s": 5.25,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-af77653d-96a4-4987-8cca-222a0bdd80d8/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b09ce21c-bdd4-4bf7-8d22-bb19fd40e5ab",
+   "title": "Perps 上线",
+   "duration_s": 37.125,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b09ce21c-bdd4-4bf7-8d22-bb19fd40e5ab/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b18272fd-07c8-4ab9-b7dc-26311fa5a29a",
+   "title": "Higgsfield — plugin now in the ChatGPT app",
+   "duration_s": 35.3,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b18272fd-07c8-4ab9-b7dc-26311fa5a29a/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b31d078a-4e5e-461e-8b43-3101ee0a2f93",
+   "title": "A New Era of No-Code",
+   "duration_s": 103.533333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b31d078a-4e5e-461e-8b43-3101ee0a2f93/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b35abe81-509c-424a-9acf-347a8831b857",
+   "title": "生态扩展｜MCP 新增 5 个合作方",
+   "duration_s": 7.541667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b35abe81-509c-424a-9acf-347a8831b857/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b39e4df1-4bdb-4c7b-8b33-803f53238bb5",
+   "title": "ChatGPT｜Apple Messages",
+   "duration_s": 32.033333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b39e4df1-4bdb-4c7b-8b33-803f53238bb5/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b3c16f52-d4d1-4686-b95b-41af9f5889ed",
+   "title": "Genspark AI Workspace 3.0: Introducing Genspark Claw",
+   "duration_s": 76.1,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b3c16f52-d4d1-4686-b95b-41af9f5889ed/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b3e82855-5bf8-48c5-8153-fd43d09b30ed",
+   "title": "Linear Agent — ask anything, command everything",
+   "duration_s": 54.85,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b3e82855-5bf8-48c5-8153-fd43d09b30ed/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b4a2bd67-b577-4e6a-8475-966edd41d474",
+   "title": "Visual Suite 2.0 发布",
+   "duration_s": 30.033333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b4a2bd67-b577-4e6a-8475-966edd41d474/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b6889c36-8aff-446f-8f2d-f958a8951a4c",
+   "title": "Introducing Muse｜个人 AI 助理发布",
+   "duration_s": 82.541667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b6889c36-8aff-446f-8f2d-f958a8951a4c/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b7699fbd-9519-4fa6-8d45-f42141378d93",
+   "title": "Supabase Pipelines — near real-time analytics sync",
+   "duration_s": 36.102733,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b7699fbd-9519-4fa6-8d45-f42141378d93/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b78b15b0-a413-459f-b2f2-dc7b2fa3f688",
+   "title": "Grok Bot can now search, read, and monitor X.",
+   "duration_s": 12.166667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b78b15b0-a413-459f-b2f2-dc7b2fa3f688/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b8332d8d-385e-4199-b6f3-e0cc340bc41f",
+   "title": "Identity Digital｜品牌主视觉",
+   "duration_s": 29.916667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b8332d8d-385e-4199-b6f3-e0cc340bc41f/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b852576e-fa72-453e-aae4-209a7a24a42d",
+   "title": "Introducing Loops",
+   "duration_s": 40.45,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b852576e-fa72-453e-aae4-209a7a24a42d/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b8ec3aa1-bed2-43d9-894f-e081667dcc1c",
+   "title": "Loops 能按星期跑",
+   "duration_s": 15.966667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b8ec3aa1-bed2-43d9-894f-e081667dcc1c/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b929be12-85e8-4c21-aae1-740250454e39",
+   "title": "Databricks — GLM 5.3 Flash on the Lakehouse",
+   "duration_s": 5.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b929be12-85e8-4c21-aae1-740250454e39/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b9484abe-d87d-4dec-b823-98e9a748c9d4",
+   "title": "Wide Research｜广泛研究",
+   "duration_s": 44.366667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b9484abe-d87d-4dec-b823-98e9a748c9d4/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b954c1dc-91c2-4d5b-bc28-8cfbf156b220",
+   "title": "上下文环形标题",
+   "duration_s": 11.3113,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b954c1dc-91c2-4d5b-bc28-8cfbf156b220/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b99bb97e-c533-4f2c-9921-48fff629d80d",
+   "title": "Model Council in Perplexity.",
+   "duration_s": 41.72,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b99bb97e-c533-4f2c-9921-48fff629d80d/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-b9ac4d16-55e8-4498-81e8-7fb4c264119d",
+   "title": "Linear — merge queue status in diffs",
+   "duration_s": 6.133333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-b9ac4d16-55e8-4498-81e8-7fb4c264119d/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-bb9fab32-b108-42a9-bb6d-f391b8d9f286",
+   "title": "Notion External Agents (Claude + Cursor integration)…",
+   "duration_s": 30.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-bb9fab32-b108-42a9-bb6d-f391b8d9f286/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-bc7b69f5-1816-4961-9501-754feba2e5b2",
+   "title": "Lovable｜Google 连接器",
+   "duration_s": 46.166667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-bc7b69f5-1816-4961-9501-754feba2e5b2/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-be0354b4-c4d9-4c81-bb67-ac16dc065184",
+   "title": "Mintlify Widget — an embedded agent that supports your users anywhere",
+   "duration_s": 22.68,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-be0354b4-c4d9-4c81-bb67-ac16dc065184/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-be2a4af0-0183-4979-ab05-2a68413c0890",
+   "title": "Lovable — skills in Lovable.",
+   "duration_s": 8.05,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-be2a4af0-0183-4979-ab05-2a68413c0890/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-bfef85b7-cef0-45ce-a596-e8dd653c8bd7",
+   "title": "Grok｜财务分析",
+   "duration_s": 15.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-bfef85b7-cef0-45ce-a596-e8dd653c8bd7/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-c14908dc-a53c-4f6b-a97d-a4904219902d",
+   "title": "Notion Skills API — skills for ChatGPT and Claude",
+   "duration_s": 23.766788,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-c14908dc-a53c-4f6b-a97d-a4904219902d/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-c1930878-a770-486d-b697-a1d0f10089ce",
+   "title": "Introducing Prime Agent: A self-improving RLM harness for coding and long-running …",
+   "duration_s": 44.44,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-c1930878-a770-486d-b697-a1d0f10089ce/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-c1bd6fc5-060a-4807-82e3-d3b059a82f53",
+   "title": "Stripe Treasury",
+   "duration_s": 40.64,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-c1bd6fc5-060a-4807-82e3-d3b059a82f53/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-c1de8de0-4333-46d2-be29-3e4090856170",
+   "title": "Flows Agent — describe it, the agent wires the workflow",
+   "duration_s": 48.666667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-c1de8de0-4333-46d2-be29-3e4090856170/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-c2ff6df1-76b3-4045-878b-bc91f1962464",
+   "title": "Figma Agent Vectors",
+   "duration_s": 39.875,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-c2ff6df1-76b3-4045-878b-bc91f1962464/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-c3a91b2d-1618-4d3c-9446-4f316797dcd9",
+   "title": "Goodfire — Understand and debug your AI model",
+   "duration_s": 39.4,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-c3a91b2d-1618-4d3c-9446-4f316797dcd9/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-c6cf01ea-4262-4297-9f62-00f975cba4df",
+   "title": "Introducing Wabi 2.0: a new kind of messenger that makes apps and gets things done…",
+   "duration_s": 80.483333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-c6cf01ea-4262-4297-9f62-00f975cba4df/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-c6e0520b-c6a6-47c6-9905-23ba6d04cc86",
+   "title": "Cloudera｜品牌图形短片",
+   "duration_s": 29.917667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-c6e0520b-c6a6-47c6-9905-23ba6d04cc86/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-c70c9db2-6726-4aa0-81a2-bcef85c19402",
+   "title": "Branch｜分支会话",
+   "duration_s": 16.433333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-c70c9db2-6726-4aa0-81a2-bcef85c19402/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-c74e1725-6fd2-4885-be7f-f1f705e9af66",
+   "title": "Custom Agents.",
+   "duration_s": 70.866667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-c74e1725-6fd2-4885-be7f-f1f705e9af66/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-c77ccf22-57cc-4afb-b398-aab0bb7617d3",
+   "title": "Cursor — start a web app and deploy to Vercel",
+   "duration_s": 24.633333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-c77ccf22-57cc-4afb-b398-aab0bb7617d3/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-c7d359a2-443b-4ee8-9f6a-f9c65d780f6d",
+   "title": "ChatGPT Desktop — now in preview on Linux",
+   "duration_s": 45.253542,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-c7d359a2-443b-4ee8-9f6a-f9c65d780f6d/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-c8db7c7c-819c-486f-b807-a56864837620",
+   "title": "Parallel Decisions API",
+   "duration_s": 35.3,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-c8db7c7c-819c-486f-b807-a56864837620/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-c8f1a735-2a04-44c0-b2bb-fa40bbcbbf09",
+   "title": "Grok — 21 brand-new voices",
+   "duration_s": 6.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-c8f1a735-2a04-44c0-b2bb-fa40bbcbbf09/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-c9623fa3-6ecd-4045-9c6e-7ad574562563",
+   "title": "Figma Code Layers",
+   "duration_s": 34.833333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-c9623fa3-6ecd-4045-9c6e-7ad574562563/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-cbb18ecc-34d6-43f2-bcd9-5d287ff82b83",
+   "title": "Claude Code｜桌面多会话",
+   "duration_s": 37.116667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-cbb18ecc-34d6-43f2-bcd9-5d287ff82b83/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-cbe77bbc-94d8-4035-9507-103deaa025bc",
+   "title": "Deezer｜Live the Music 动态背景",
+   "duration_s": 10.04,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-cbe77bbc-94d8-4035-9507-103deaa025bc/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-ccb4e364-1666-4672-80d4-cb68fb591bad",
+   "title": "Figma × Codex · 设计与实现交接",
+   "duration_s": 40.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-ccb4e364-1666-4672-80d4-cb68fb591bad/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-ce3d2f77-5000-4546-bf66-cc6dd6be573a",
+   "title": "Composer · 分段歌曲编辑",
+   "duration_s": 59.1,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-ce3d2f77-5000-4546-bf66-cc6dd6be573a/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-cf8b2e64-684d-4839-a468-64519c92be20",
+   "title": "Slides 上线",
+   "duration_s": 25.6,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-cf8b2e64-684d-4839-a468-64519c92be20/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-cfd6f6b6-2f3f-4e53-957d-1e87cfebe777",
+   "title": "TIDAL｜文字主视觉 15 秒版",
+   "duration_s": 15.01452,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-cfd6f6b6-2f3f-4e53-957d-1e87cfebe777/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d151cc2c-40bc-4765-a767-3957bdee6ec2",
+   "title": "watsonx｜平台发布",
+   "duration_s": 33.9,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d151cc2c-40bc-4765-a767-3957bdee6ec2/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d16d6118-7d1f-4450-91b0-c7d48b041162",
+   "title": "Uber Go Get It｜品牌图形动效片段",
+   "duration_s": 4.8,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d16d6118-7d1f-4450-91b0-c7d48b041162/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d17c7cfb-5ccf-4c2d-be92-e485a181671d",
+   "title": "Perplexity Projects — hubs for ongoing work",
+   "duration_s": 64.033333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d17c7cfb-5ccf-4c2d-be92-e485a181671d/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d1af6c0e-6066-4444-9b25-8773ad6cf2f8",
+   "title": "Creative Cloud｜绿色立体变体",
+   "duration_s": 1.375,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d1af6c0e-6066-4444-9b25-8773ad6cf2f8/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d214ebc1-b1cd-4615-8d40-d580632e8f29",
+   "title": "Figma AI Image Editing",
+   "duration_s": 24.333333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d214ebc1-b1cd-4615-8d40-d580632e8f29/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d2c98a37-41c1-411a-a21f-fc50219b3a7a",
+   "title": "Gemini｜品牌字标揭晓",
+   "duration_s": 10.076733,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d2c98a37-41c1-411a-a21f-fc50219b3a7a/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d3b9d255-d01d-4f27-a62e-6b68189721a1",
+   "title": "标志聚合揭晓 · 8.0 秒",
+   "duration_s": 8.01,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d3b9d255-d01d-4f27-a62e-6b68189721a1/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d4b9bf2f-fae1-4311-b063-ca942de2254a",
+   "title": "Framer Skills",
+   "duration_s": 29.996633,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d4b9bf2f-fae1-4311-b063-ca942de2254a/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d4e8028e-fa9e-439f-8072-690f9b36845b",
+   "title": "Evergreen｜视觉系统总览",
+   "duration_s": 7.966667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d4e8028e-fa9e-439f-8072-690f9b36845b/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d558f0d8-3749-4726-84ee-63b94b1538fe",
+   "title": "Grok Bot — it can send you voice notes",
+   "duration_s": 19.233333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d558f0d8-3749-4726-84ee-63b94b1538fe/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d75c22e1-3c2c-4df8-aece-d4f7a37d8ff0",
+   "title": "模型发布｜Fable 5",
+   "duration_s": 20.416667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d75c22e1-3c2c-4df8-aece-d4f7a37d8ff0/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d7eb1cbe-ded7-416a-8772-f4830f41e5a7",
+   "title": "订阅改版",
+   "duration_s": 12.333333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d7eb1cbe-ded7-416a-8772-f4830f41e5a7/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d86700fa-19e5-4f8c-900a-a03429cc89b4",
+   "title": "ElevenLabs｜Scribe v2",
+   "duration_s": 51.333372,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d86700fa-19e5-4f8c-900a-a03429cc89b4/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d887324f-64c4-4394-a9f7-1504dbfed419",
+   "title": "界面按钮排列 · 10.7 秒",
+   "duration_s": 10.683333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d887324f-64c4-4394-a9f7-1504dbfed419/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d8eea6d9-b25b-4727-823d-d102070ea694",
+   "title": "HyperOS 官网界面动效 1",
+   "duration_s": 47.2,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d8eea6d9-b25b-4727-823d-d102070ea694/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d9104b0c-a3cb-4745-9a7e-33230c129e9b",
+   "title": "Grok Bot can talk now.",
+   "duration_s": 29.666787,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d9104b0c-a3cb-4745-9a7e-33230c129e9b/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d9149cb4-6919-4873-aecc-c71b57e848aa",
+   "title": "Creative Cloud｜彩色图形变体",
+   "duration_s": 2.833333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d9149cb4-6919-4873-aecc-c71b57e848aa/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d9465c0d-9d09-43d3-a1e7-c5617022db9d",
+   "title": "大会预热｜Config 2026 loading",
+   "duration_s": 7.1071,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d9465c0d-9d09-43d3-a1e7-c5617022db9d/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-d96e83db-9460-4d75-8e13-0a899f647087",
+   "title": "Lovable · 从 Slack 发起制作",
+   "duration_s": 30.033333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-d96e83db-9460-4d75-8e13-0a899f647087/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-dac924da-010f-4445-baf3-a39cb033e48f",
+   "title": "功能更新｜Voice mode",
+   "duration_s": 11.458333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-dac924da-010f-4445-baf3-a39cb033e48f/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-db8581fb-3dc8-426e-8cc4-fd60debb5ced",
+   "title": "Le Chat 新功能",
+   "duration_s": 113.766667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-db8581fb-3dc8-426e-8cc4-fd60debb5ced/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-dbb8ef9c-613d-4725-9328-a0c3700baa9e",
+   "title": "玻璃棱镜上的 Framer",
+   "duration_s": 3.866667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-dbb8ef9c-613d-4725-9328-a0c3700baa9e/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-dc52ebb8-adb7-442a-b57b-8e647e68863f",
+   "title": "Apple｜跨设备剪贴板",
+   "duration_s": 5.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-dc52ebb8-adb7-442a-b57b-8e647e68863f/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-de5c331a-48e6-4bdb-98da-597d76fa3d77",
+   "title": "Uniqode｜点阵文字聚散",
+   "duration_s": 5.466667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-de5c331a-48e6-4bdb-98da-597d76fa3d77/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-dfb1a35a-a70e-489f-8e02-b74068fc0b8c",
+   "title": "Figma Draw",
+   "duration_s": 53.041667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-dfb1a35a-a70e-489f-8e02-b74068fc0b8c/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-dfbe2224-d097-4f35-ac18-edd61ad7a065",
+   "title": "Grok Bot｜角色叠放",
+   "duration_s": 12.433333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-dfbe2224-d097-4f35-ac18-edd61ad7a065/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-e0faf135-a425-4c7a-a795-2d5c59b90ab3",
+   "title": "Zapier Motion Library",
+   "duration_s": 11.959333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-e0faf135-a425-4c7a-a795-2d5c59b90ab3/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-e2b86338-8508-40c5-ba89-084eca9e0f25",
+   "title": "Cursor 能操控电脑",
+   "duration_s": 21.033333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-e2b86338-8508-40c5-ba89-084eca9e0f25/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-e3ad4095-8f2e-4c03-b834-d2525b73e257",
+   "title": "Welcome to the Age of No-Code",
+   "duration_s": 89.833333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-e3ad4095-8f2e-4c03-b834-d2525b73e257/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-e3fe6179-acf0-4e3f-a8fe-27efd50a6d1d",
+   "title": "几何图案循环 · 10.0 秒",
+   "duration_s": 10.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-e3fe6179-acf0-4e3f-a8fe-27efd50a6d1d/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-e558c471-28db-4353-a1c8-9ce5089838b1",
+   "title": "Figma Specs",
+   "duration_s": 40.75,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-e558c471-28db-4353-a1c8-9ce5089838b1/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-e56bae66-988c-438c-b258-adfbe1e52857",
+   "title": "Notion — the backbone of your dock",
+   "duration_s": 18.7,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-e56bae66-988c-438c-b258-adfbe1e52857/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-e5959798-9c70-4f6e-b16b-4375a87adfc2",
+   "title": "Grok Build｜项目记忆",
+   "duration_s": 14.291667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-e5959798-9c70-4f6e-b16b-4375a87adfc2/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-e62d4e85-ccf4-4e3e-8388-ae70143cb3dc",
+   "title": "Creative Cloud｜标志主片",
+   "duration_s": 9.876,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-e62d4e85-ccf4-4e3e-8388-ae70143cb3dc/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-e637f1df-8aa8-4594-970c-7dfa666ef8f5",
+   "title": "Cursor Cloud Agents",
+   "duration_s": 43.866667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-e637f1df-8aa8-4594-970c-7dfa666ef8f5/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-e6ac921a-f56f-4170-a2be-938cec5d028b",
+   "title": "功能发布｜Config 2026 发布 Figma Motion",
+   "duration_s": 68.083333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-e6ac921a-f56f-4170-a2be-938cec5d028b/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-e8b823ee-4201-4eda-a07b-e615407eb80e",
+   "title": "Introducing Glean",
+   "duration_s": 91.933333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-e8b823ee-4201-4eda-a07b-e615407eb80e/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-ea3e966c-24ae-4313-b870-cd6a464935ca",
+   "title": "Linear — The product development system for teams and…",
+   "duration_s": 30.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-ea3e966c-24ae-4313-b870-cd6a464935ca/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-eb5e7505-5597-469a-81d0-af00335f029f",
+   "title": "Cloud Computer：部署与使用云电脑",
+   "duration_s": 47.966667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-eb5e7505-5597-469a-81d0-af00335f029f/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-f11e199c-f90b-4df1-be9c-33734ad80c26",
+   "title": "适配 iPhone Duo",
+   "duration_s": 27.833333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-f11e199c-f90b-4df1-be9c-33734ad80c26/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-f1c07057-890b-4fdf-af1c-52d7cb621b65",
+   "title": "矢量图形｜发布前预告",
+   "duration_s": 8.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-f1c07057-890b-4fdf-af1c-52d7cb621b65/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-f4b325fd-64ba-42da-9f7e-6a6b77cfafd2",
+   "title": "季度业绩｜2026 Q1 数据海报",
+   "duration_s": 25.041667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-f4b325fd-64ba-42da-9f7e-6a6b77cfafd2/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-f51cf753-f530-43cd-afa5-0f178e7811b9",
+   "title": "幕后内容上线｜The making of Claude Code",
+   "duration_s": 9.216667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-f51cf753-f530-43cd-afa5-0f178e7811b9/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-f53dad52-9f20-42c5-b5c3-00743ea475b3",
+   "title": "Jitter Superagents｜产品能力展示",
+   "duration_s": 37.933524,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-f53dad52-9f20-42c5-b5c3-00743ea475b3/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-f6663abf-b1a2-40b9-91f2-9d6efcc69f80",
+   "title": "在 Grok 里把草图变卡通",
+   "duration_s": 17.633333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-f6663abf-b1a2-40b9-91f2-9d6efcc69f80/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-f6f244d1-c549-4081-8a5d-f0e1e3660044",
+   "title": "Glean Agents 发布",
+   "duration_s": 61.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-f6f244d1-c549-4081-8a5d-f0e1e3660044/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-f79b250a-1eb7-4a38-be7e-fe955376e08e",
+   "title": "Grok Bot × Linear",
+   "duration_s": 10.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-f79b250a-1eb7-4a38-be7e-fe955376e08e/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-f7b30612-b414-4a92-bd26-9f03ec1575df",
+   "title": "design mode 新增 Annotate",
+   "duration_s": 43.566667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-f7b30612-b414-4a92-bd26-9f03ec1575df/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-f878182e-c863-45eb-ac54-2e472890987b",
+   "title": "活动预热｜10 万美元 Make-a-thon",
+   "duration_s": 15.92,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-f878182e-c863-45eb-ac54-2e472890987b/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-f8941c74-b760-411c-b92f-6d838250ecc9",
+   "title": "九十年代浏览器拼贴",
+   "duration_s": 5.7057,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-f8941c74-b760-411c-b92f-6d838250ecc9/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-f8c4cf8e-4934-46ac-9185-e43b68be4f50",
+   "title": "Telegram managed bots (AI bots) — On Telegram, anyone…",
+   "duration_s": 12.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-f8c4cf8e-4934-46ac-9185-e43b68be4f50/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-f9bf74bb-fb65-4430-97b9-71ae5d7b3397",
+   "title": "Cyera Research Labs",
+   "duration_s": 30.033346,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-f9bf74bb-fb65-4430-97b9-71ae5d7b3397/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-fac0e564-4bc2-4c97-be24-3847cbdcdbb5",
+   "title": "状态词与 HyperFrames",
+   "duration_s": 10.7,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-fac0e564-4bc2-4c97-be24-3847cbdcdbb5/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-faceb915-f2c3-4dac-972b-a146d31eef72",
+   "title": "Perplexity Computer 能完全本地跑在 Mac 上",
+   "duration_s": 68.516667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-faceb915-f2c3-4dac-972b-a146d31eef72/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-fb18104a-3399-4531-adf1-88e48414c7dc",
+   "title": "Notion Skills — teach agents how your team works",
+   "duration_s": 36.750217,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-fb18104a-3399-4531-adf1-88e48414c7dc/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-fb72e5e5-872c-4981-b137-4533a72567fe",
+   "title": "ElevenMusic — Today we are launching ElevenMusic, a…",
+   "duration_s": 40.0,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-fb72e5e5-872c-4981-b137-4533a72567fe/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-fbb00c6a-6153-4a88-b8fe-fc15ad81d15b",
+   "title": "Comet｜一排星球",
+   "duration_s": 15.2,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-fbb00c6a-6153-4a88-b8fe-fc15ad81d15b/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-fe6852d3-cd2e-43f1-924e-c130b1935937",
+   "title": "Uniqode｜点阵品牌短片",
+   "duration_s": 10.033333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-fe6852d3-cd2e-43f1-924e-c130b1935937/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-feeeda96-c525-4c1c-889b-98774759ecfc",
+   "title": "Claude Haiku 5.5 发布",
+   "duration_s": 11.083333,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-feeeda96-c525-4c1c-889b-98774759ecfc/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-ffaef2b8-7833-4612-ba45-0efd992cc43a",
+   "title": "Emergent｜手机端构建应用",
+   "duration_s": 59.366667,
+   "palette": [],
+   "has_source": true,
+   "motion_md": "motion-ffaef2b8-7833-4612-ba45-0efd992cc43a/source/motion.md",
+   "palette_count": 0
+  },
+  {
+   "id": "motion-orbit-launch",
+   "title": "Orbit Launch — motion specification",
+   "duration_s": null,
+   "palette": [],
+   "has_source": false,
+   "motion_md": "motion-orbit-launch/source/motion.md",
+   "palette_count": 0
+  }
+ ],
+ "durations_parsed": 286
+}

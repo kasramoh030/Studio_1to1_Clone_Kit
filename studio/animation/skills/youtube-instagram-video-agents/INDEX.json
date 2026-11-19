@@ -1,0 +1,56 @@
+{
+  "packs_count": 10,
+  "total_skill_and_style_docs": 278,
+  "packs": [
+    {
+      "pack": "01_reel_maker_199_reels_lab",
+      "source_repo": "https://github.com/Develifture/reel-maker",
+      "files_installed": 8
+    },
+    {
+      "pack": "02_melvynx_youtube_insta_creator_suite",
+      "source_repo": "https://github.com/Melvynx/video-agent-skills",
+      "files_installed": 42
+    },
+    {
+      "pack": "03_favstash_99_film_looks_33_motion_fx",
+      "source_repo": "https://github.com/alisadiq-ai/favstash-ai-video-editing-skills",
+      "files_installed": 142
+    },
+    {
+      "pack": "04_aegntic_motion_craft_157_shotcraft",
+      "source_repo": "https://github.com/aegntic/video-aegnt",
+      "files_installed": 7
+    },
+    {
+      "pack": "05_remotion_broadcast_kinetic_camera",
+      "source_repo": "https://github.com/Liamrjohnston/remotion-motion-graphics-skill",
+      "files_installed": 10
+    },
+    {
+      "pack": "06_claude_remotion_motion_patterns",
+      "source_repo": "https://github.com/haidrrrry/claude-remotion-skill",
+      "files_installed": 3
+    },
+    {
+      "pack": "07_motion_film_single_clock_cinema",
+      "source_repo": "https://github.com/arhen/motion-film",
+      "files_installed": 19
+    },
+    {
+      "pack": "08_faceless_explainer_animations",
+      "source_repo": "https://github.com/artemnovitckii/claude-animation-skills",
+      "files_installed": 9
+    },
+    {
+      "pack": "09_vertical_shorts_platform_specs",
+      "source_repo": "https://github.com/social-media-skills/remotion-shorts-skill",
+      "files_installed": 7
+    },
+    {
+      "pack": "10_creator_style_kit_18_vertical_styles",
+      "source_repo": "https://github.com/threeaus/creator-style-kit",
+      "files_installed": 31
+    }
+  ]
+}
