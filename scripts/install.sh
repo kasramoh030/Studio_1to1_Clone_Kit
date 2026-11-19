@@ -15,9 +15,23 @@ if command -v apt-get >/dev/null 2>&1; then
     sudo apt-get update -qq 2>/dev/null || true
     sudo apt-get install -y -qq \
         ffmpeg fluidsynth fluid-soundfont-gm ladspa-sdk tap-plugins frei0r-plugins librsvg2-bin \
-        2>/dev/null || echo "⚠️  apt-get محدود است (بدون اینترنت سیستمی). ادامه بدون ابزار سیستمی."
+        2>/dev/null || echo "⚠️  apt_get محدود است (بدون اینترنت سیستمی). ادامه بدون ابزار سیستمی."
 else
     echo "ℹ️  apt-get یافت نشد — ابزار سیستمی نادیده گرفته شد."
+fi
+
+# ۳. بلندر ۳ بعدی (نصب دستی چون بار سنگین است و apt مسدود ممکن است باشد)
+echo ""
+echo "🧊 نصب بلندر (.headless رندر ۳ بعدی و اناتومی):"
+if command -v blender >/dev/null 2>&1; then
+    echo "  ✅ blender هم‌اکنون در دسترس است: $(blender --version | head -1)"
+else
+    echo "  ❌ blender یافت نشد."
+    echo "     راهنمای نصب دستی:"
+    echo "     1. به https://www.blender.org/download/ بروید و Blender LTS (مثل 4.x) را دانلود کنید."
+    echo "     2. tar.xz را استخراج کنید و بلندر را به PATH اضافه کنید، یا:"
+    echo "        sudo apt-get install blender   (اگر اینترنت سیستمی فعال باشد)"
+    echo "     3. برای رندر بدون مانیتور: blender --background --python script.py"
 fi
 
 # ۳. بررسیmotorها

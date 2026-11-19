@@ -83,6 +83,52 @@ def cmd_list_effects(args):
     return 0
 
 
+def cmd_blender_scale(args):
+    from engine.pipeline.blender_3d_scale import describe
+    print(describe())
+
+
+def cmd_math_physics(args):
+    from engine.pipeline.math_physics_typography_scale import describe
+    print(describe())
+
+
+def cmd_biology(args):
+    from engine.pipeline.biology_scale import describe
+    print(describe())
+
+
+def cmd_whip_enforcer(args):
+    from engine.pipeline.whip_enforcer import run_all
+    import json
+
+    state = {}
+    if args.state:
+        try:
+            state = json.loads(args.state)
+        except Exception as exc:
+            print(f"خطا در تجزیه state JSON: {exc}")
+            return 1
+    rep = run_all(state)
+    print(rep.summary())
+    return 0 if rep.passed else 1
+
+
+def cmd_strict_coordinator(args):
+    from engine.pipeline.strict_coordinator import run_full_pipeline
+    import json
+
+    meta = {}
+    if args.meta:
+        try:
+            meta = json.loads(args.meta)
+        except Exception as exc:
+            print(f"خطا در تجزیه meta JSON: {exc}")
+            return 1
+    print(run_full_pipeline(meta))
+    return 0
+
+
 def cmd_render_sample(args):
     """デモ・クリップをレンダリング (ffmpeg があれば MP4 出力, なければプランのみ表示)."""
     from shutil import which
@@ -137,7 +183,19 @@ def build_parser():
     sub.add_parser("list-transitions", help="gl-transitions 一覧").set_defaults(func=cmd_list_transitions)
     sub.add_parser("list-effects", help="LYGIA シェーダー一覧").set_defaults(func=cmd_list_effects)
 
-    p_render = sub.add_parser("render-sample", help="デモ・クリップをレンダリング")
+    sub.add_parser("blender-scale", help="اسکیل ۳ بعدی بلندر + اناتومی").set_defaults(func=cmd_blender_scale)
+    sub.add_parser("math-physics", help="تایپوگرافی ریاضیات و فیزیک").set_defaults(func=cmd_math_physics)
+    sub.add_parser("biology", help="اسکیل زیست‌شناسی").set_defaults(func=cmd_biology)
+
+    p_whip = sub.add_parser("whip-enforcer", help="شلاق‌زن ۱۰ گیت کنترل کیفیت")
+    p_whip.add_argument("--state", default="{}", help="وضعیت پروژه به صورت JSON")
+    p_whip.set_defaults(func=cmd_whip_enforcer)
+
+    p_coord = sub.add_parser("strict-coordinator", help="همگام‌کننده سخت‌گیر چرخهٔ تولید ۸ مرحله‌ای")
+    p_coord.add_argument("--meta", default="{}", help="متادیتا پروژه به صورت JSON")
+    p_coord.set_defaults(func=cmd_strict_coordinator)
+
+    p_render = sub.add_parser("render-sample", help="دیمو・クリップをレンダリング")
     p_render.add_argument("--out", default="/tmp/studio_demo.mp4")
     p_render.set_defaults(func=cmd_render_sample)
 
