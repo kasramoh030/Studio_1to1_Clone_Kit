@@ -1,0 +1,216 @@
+{
+  "source_repo": "https://github.com/msitarzewski/agency-agents",
+  "count": 42,
+  "agents": [
+    {
+      "division": "01_youtube_instagram_growth",
+      "agent": "marketing-short-video-editing-coach",
+      "path": "01_youtube_instagram_growth/marketing-short-video-editing-coach.md"
+    },
+    {
+      "division": "01_youtube_instagram_growth",
+      "agent": "marketing-video-optimization-specialist",
+      "path": "01_youtube_instagram_growth/marketing-video-optimization-specialist.md"
+    },
+    {
+      "division": "01_youtube_instagram_growth",
+      "agent": "marketing-instagram-curator",
+      "path": "01_youtube_instagram_growth/marketing-instagram-curator.md"
+    },
+    {
+      "division": "01_youtube_instagram_growth",
+      "agent": "marketing-carousel-growth-engine",
+      "path": "01_youtube_instagram_growth/marketing-carousel-growth-engine.md"
+    },
+    {
+      "division": "01_youtube_instagram_growth",
+      "agent": "marketing-tiktok-strategist",
+      "path": "01_youtube_instagram_growth/marketing-tiktok-strategist.md"
+    },
+    {
+      "division": "01_youtube_instagram_growth",
+      "agent": "marketing-content-creator",
+      "path": "01_youtube_instagram_growth/marketing-content-creator.md"
+    },
+    {
+      "division": "01_youtube_instagram_growth",
+      "agent": "marketing-social-media-strategist",
+      "path": "01_youtube_instagram_growth/marketing-social-media-strategist.md"
+    },
+    {
+      "division": "01_youtube_instagram_growth",
+      "agent": "marketing-multi-platform-publisher",
+      "path": "01_youtube_instagram_growth/marketing-multi-platform-publisher.md"
+    },
+    {
+      "division": "01_youtube_instagram_growth",
+      "agent": "marketing-podcast-strategist",
+      "path": "01_youtube_instagram_growth/marketing-podcast-strategist.md"
+    },
+    {
+      "division": "01_youtube_instagram_growth",
+      "agent": "marketing-growth-hacker",
+      "path": "01_youtube_instagram_growth/marketing-growth-hacker.md"
+    },
+    {
+      "division": "01_youtube_instagram_growth",
+      "agent": "paid-media-creative-strategist",
+      "path": "01_youtube_instagram_growth/paid-media-creative-strategist.md"
+    },
+    {
+      "division": "02_visual_storytelling_brand_thumbnail",
+      "agent": "design-visual-storyteller",
+      "path": "02_visual_storytelling_brand_thumbnail/design-visual-storyteller.md"
+    },
+    {
+      "division": "02_visual_storytelling_brand_thumbnail",
+      "agent": "design-brand-guardian",
+      "path": "02_visual_storytelling_brand_thumbnail/design-brand-guardian.md"
+    },
+    {
+      "division": "02_visual_storytelling_brand_thumbnail",
+      "agent": "design-image-prompt-engineer",
+      "path": "02_visual_storytelling_brand_thumbnail/design-image-prompt-engineer.md"
+    },
+    {
+      "division": "02_visual_storytelling_brand_thumbnail",
+      "agent": "design-ui-designer",
+      "path": "02_visual_storytelling_brand_thumbnail/design-ui-designer.md"
+    },
+    {
+      "division": "02_visual_storytelling_brand_thumbnail",
+      "agent": "design-ui-finish-gate-reviewer",
+      "path": "02_visual_storytelling_brand_thumbnail/design-ui-finish-gate-reviewer.md"
+    },
+    {
+      "division": "02_visual_storytelling_brand_thumbnail",
+      "agent": "design-whimsy-injector",
+      "path": "02_visual_storytelling_brand_thumbnail/design-whimsy-injector.md"
+    },
+    {
+      "division": "02_visual_storytelling_brand_thumbnail",
+      "agent": "design-ux-architect",
+      "path": "02_visual_storytelling_brand_thumbnail/design-ux-architect.md"
+    },
+    {
+      "division": "03_narrative_history_psychology_research",
+      "agent": "academic-narratologist",
+      "path": "03_narrative_history_psychology_research/academic-narratologist.md"
+    },
+    {
+      "division": "03_narrative_history_psychology_research",
+      "agent": "academic-historian",
+      "path": "03_narrative_history_psychology_research/academic-historian.md"
+    },
+    {
+      "division": "03_narrative_history_psychology_research",
+      "agent": "academic-geographer",
+      "path": "03_narrative_history_psychology_research/academic-geographer.md"
+    },
+    {
+      "division": "03_narrative_history_psychology_research",
+      "agent": "academic-statistician",
+      "path": "03_narrative_history_psychology_research/academic-statistician.md"
+    },
+    {
+      "division": "03_narrative_history_psychology_research",
+      "agent": "academic-psychologist",
+      "path": "03_narrative_history_psychology_research/academic-psychologist.md"
+    },
+    {
+      "division": "03_narrative_history_psychology_research",
+      "agent": "research-synthesist",
+      "path": "03_narrative_history_psychology_research/research-synthesist.md"
+    },
+    {
+      "division": "04_finance_macro_scenarios",
+      "agent": "finance-financial-analyst",
+      "path": "04_finance_macro_scenarios/finance-financial-analyst.md"
+    },
+    {
+      "division": "04_finance_macro_scenarios",
+      "agent": "finance-investment-researcher",
+      "path": "04_finance_macro_scenarios/finance-investment-researcher.md"
+    },
+    {
+      "division": "04_finance_macro_scenarios",
+      "agent": "finance-fpa-analyst",
+      "path": "04_finance_macro_scenarios/finance-fpa-analyst.md"
+    },
+    {
+      "division": "05_dataviz_gis_3d_shaders_audio",
+      "agent": "engineering-data-visualization-engineer",
+      "path": "05_dataviz_gis_3d_shaders_audio/engineering-data-visualization-engineer.md"
+    },
+    {
+      "division": "05_dataviz_gis_3d_shaders_audio",
+      "agent": "engineering-video-streaming-engineer",
+      "path": "05_dataviz_gis_3d_shaders_audio/engineering-video-streaming-engineer.md"
+    },
+    {
+      "division": "05_dataviz_gis_3d_shaders_audio",
+      "agent": "gis-cartography-designer",
+      "path": "05_dataviz_gis_3d_shaders_audio/gis-cartography-designer.md"
+    },
+    {
+      "division": "05_dataviz_gis_3d_shaders_audio",
+      "agent": "gis-3d-scene-developer",
+      "path": "05_dataviz_gis_3d_shaders_audio/gis-3d-scene-developer.md"
+    },
+    {
+      "division": "05_dataviz_gis_3d_shaders_audio",
+      "agent": "gis-spatial-data-scientist",
+      "path": "05_dataviz_gis_3d_shaders_audio/gis-spatial-data-scientist.md"
+    },
+    {
+      "division": "05_dataviz_gis_3d_shaders_audio",
+      "agent": "technical-artist",
+      "path": "05_dataviz_gis_3d_shaders_audio/technical-artist.md"
+    },
+    {
+      "division": "05_dataviz_gis_3d_shaders_audio",
+      "agent": "narrative-designer",
+      "path": "05_dataviz_gis_3d_shaders_audio/narrative-designer.md"
+    },
+    {
+      "division": "05_dataviz_gis_3d_shaders_audio",
+      "agent": "game-audio-engineer",
+      "path": "05_dataviz_gis_3d_shaders_audio/game-audio-engineer.md"
+    },
+    {
+      "division": "05_dataviz_gis_3d_shaders_audio",
+      "agent": "specialized-focus-music-architect",
+      "path": "05_dataviz_gis_3d_shaders_audio/specialized-focus-music-architect.md"
+    },
+    {
+      "division": "06_orchestration_trends_qa",
+      "agent": "agents-orchestrator",
+      "path": "06_orchestration_trends_qa/agents-orchestrator.md"
+    },
+    {
+      "division": "06_orchestration_trends_qa",
+      "agent": "project-management-studio-producer",
+      "path": "06_orchestration_trends_qa/project-management-studio-producer.md"
+    },
+    {
+      "division": "06_orchestration_trends_qa",
+      "agent": "product-trend-researcher",
+      "path": "06_orchestration_trends_qa/product-trend-researcher.md"
+    },
+    {
+      "division": "06_orchestration_trends_qa",
+      "agent": "product-behavioral-nudge-engine",
+      "path": "06_orchestration_trends_qa/product-behavioral-nudge-engine.md"
+    },
+    {
+      "division": "06_orchestration_trends_qa",
+      "agent": "testing-reality-checker",
+      "path": "06_orchestration_trends_qa/testing-reality-checker.md"
+    },
+    {
+      "division": "06_orchestration_trends_qa",
+      "agent": "testing-evidence-collector",
+      "path": "06_orchestration_trends_qa/testing-evidence-collector.md"
+    }
+  ]
+}

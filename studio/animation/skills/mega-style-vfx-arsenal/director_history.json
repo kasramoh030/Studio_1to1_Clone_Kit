@@ -1,0 +1,53 @@
+{
+  "recent_picks": {
+    "editorial_grammar": [
+      "grammar_012__paradox_question_anatomy__hyper_retention_2s__street_quote_witness",
+      "grp::paradox_question_anatomy"
+    ],
+    "visual_style_pack": [
+      "favstash::spreadsheet"
+    ],
+    "hook_typography": [
+      "ig_reels__hormozi_reels_pop__hud_telemetry_box__chrome__42",
+      "grp::hud_telemetry_box"
+    ],
+    "body_and_data_typography": [
+      "ig_reels__swiss_grid_modern__hud_telemetry_box__hollow_shadow__66",
+      "grp::hud_telemetry_box"
+    ],
+    "thumbnail_typography": [
+      "ig_reels__broadcast_hard__big_number_hero__gold_foil__99",
+      "grp::big_number_hero"
+    ],
+    "font_and_caption_stack": [
+      "fontstack_027__shabnam_bold__scoreboard",
+      "grp::scoreboard"
+    ],
+    "motion_choreography": [
+      "openmotion::motion-7524e275-4fe8-4",
+      "grp::odometer"
+    ],
+    "imagery_and_viz": [
+      "imgviz_015__real_archival_16mm_dossier__cold_cyan_dossier",
+      "grp::real_archival_16mm_dossier"
+    ],
+    "gl_transitions": [
+      "gl::StripDatamoshGlitch"
+    ],
+    "vfx_and_shaders": [
+      "proc_vfx::anamorphic_streak"
+    ],
+    "voice_and_dsp": [
+      "vocal_dsp_053__bloomberg_precision_desk__broadcast_fet_140",
+      "grp::bloomberg_precision_desk"
+    ],
+    "sfx_arsenal": [
+      "sfx_099__cash_ticker_cascade__bright_mobile",
+      "grp::cash_ticker_cascade"
+    ],
+    "music_score": [
+      "score_032__bloomberg_synth_arp_ledger__cinematic_arc_build__tight_modern_room",
+      "grp::bloomberg_synth_arp_ledger"
+    ]
+  }
+}
